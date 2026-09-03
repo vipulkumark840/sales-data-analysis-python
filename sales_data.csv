@@ -1,0 +1,16 @@
+Date,City,Product,Quantity,Unit_Price,Sales
+2026-01-05,Bengaluru,Laptop,1,55000,55000
+2026-01-08,Patna,Mouse,8,700,5600
+2026-01-15,Delhi,Keyboard,5,1500,7500
+2026-02-02,Bengaluru,Monitor,3,12000,36000
+2026-02-10,Mumbai,Laptop,2,55000,110000
+2026-02-18,Patna,Headphones,10,1800,18000
+2026-03-01,Delhi,Laptop,1,55000,55000
+2026-03-09,Mumbai,Monitor,4,12000,48000
+2026-03-16,Bengaluru,Keyboard,7,1500,10500
+2026-04-04,Patna,Laptop,2,55000,110000
+2026-04-12,Delhi,Mouse,15,700,10500
+2026-04-20,Mumbai,Headphones,12,1800,21600
+2026-05-03,Bengaluru,Laptop,2,55000,110000
+2026-05-11,Patna,Monitor,2,12000,24000
+2026-05-22,Delhi,Keyboard,10,1500,15000
